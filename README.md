@@ -1,3 +1,8 @@
+# THB-Data_Science
+
+This repo consists of submission task for the university module "Data Science". Jupyter notebook applications were created in which clusterings, classifications and data in gerneral were studied. Main purpose of the module was to understand how to work with data and how to visualize.
+
+![](/StartPage/clustering.png)
 
 ## EA 1 - Data Science Introduction Exercises (15 points)
 
